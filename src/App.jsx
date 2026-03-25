@@ -27,7 +27,7 @@ export default function App() {
 
 
   return (
-    <div className='min-h-screen flex items-center justify-center bg-gray-100'>
+    <div className='min-h-screen flex items-center justify-center bg-gray-900'>
     <div className="bg-white p-6 rounded-2xl shadow-xl text-center w-80 space-y-6">
     <h1 className="text-5xl font-bold">
       {count}</h1>
